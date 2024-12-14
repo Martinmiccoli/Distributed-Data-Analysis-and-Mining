@@ -93,7 +93,7 @@ A collaborative effort by **Group 2** from the MSc Data Science and Business Inf
 
 ---
 
-## 📖 Learn More
+## 📖 More Info
 
 - [📑 Full Project Report](https://github.com/Martinmiccoli/Distributed-Data-Analysis-and-Mining/blob/b1770f1170b1ea487706e14759853ee775d712bf/Group2_DDAM_2425%5BReport%5D.pdf)
 - [Sparkov Data Generator](https://github.com/namebrandon/Sparkov_Data_Generation)
