@@ -95,7 +95,7 @@ A collaborative effort by **Group 2** from the MSc Data Science and Business Inf
 
 ## 📖 Learn More
 
-- [📑 Full Project Report](./[DDAM_Group2_2425.pdf](https://github.com/Martinmiccoli/Distributed-Data-Analysis-and-Mining/blob/main/Group2_DDAM_2425%5BReport%5D.pdf))
+- [📑 Full Project Report](./https://github.com/Martinmiccoli/Distributed-Data-Analysis-and-Mining/blob/main/Group2_DDAM_2425%5BReport%5D.pdf)
 - [Sparkov Data Generator](https://github.com/namebrandon/Sparkov_Data_Generation)
 - [US State Boundaries Dataset](https://public.opendatasoft.com/explore/dataset/us-state-boundaries/export/)
 - [Income Data](https://fred.stlouisfed.org/release/tables?eid=259515&rid=249)
